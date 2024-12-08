@@ -1,5 +1,6 @@
-﻿// ConsoleApplication1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
+﻿//1Лб//
+//4ВАРИАНТ//
+
 
 #include <iostream>
 using namespace std;

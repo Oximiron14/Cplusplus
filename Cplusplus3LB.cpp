@@ -1,4 +1,6 @@
-﻿#include <iostream>
+﻿//3ЛБ//
+//ВАРИАНТ 3//
+#include <iostream>
 #include <cmath>
 using namespace std;
 
